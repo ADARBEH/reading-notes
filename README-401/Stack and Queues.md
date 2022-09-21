@@ -16,3 +16,12 @@
 
 ## What is Queue?
 #### The queue is a linear data structure in which we can insert the element from one side of the list and delete the element from the other side of the list. The end of the list from where the elements are inserted is called the rear end and the end from where the elements are deleted is called the front end. Therefore, the queue data structure follows the FIFO(First In First Out) principle, which means the element inserted first from the rear end will be the first element to be deleted from the front end. 
+
+---
+
+### 1. What three things have you heard about before that you now have better clarity? 
+### stack & queue
+### 2. What three things do you hope to learn more about in the next lecture/demo?
+### nothing
+### 3. What are you most excited about trying to do or figuring out how it works?
+### Using the data structure and dealing with stack & queue
